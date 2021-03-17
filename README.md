@@ -1,7 +1,7 @@
 # Power-System-State-Estimation 
 This is a dataset for IEEE 14 bus system generated using MATPOWER. It includes various measurements as input and voltage and magnitudes of all 14 buses as states. The paper has been published in to International Journal of Electrical Power & Energy Systems.  Here is the link to arxiv https://arxiv.org/pdf/2101.03457.pdf
 
-Click in the the link  below for dataset and the source code. Some of the file are yet to upload.  Please check in a few days. Detail explanation of the files will be provided later (Very busy Right Now).
+Click in the the link  below for dataset and the source code. Some of the file are yet to upload.  Please check in a few days. Detail explanation of the files will be provided later (Very busy Right Now). It takes a lot to time to properly explain and upload all the material in a proper way. 
 https://drive.google.com/drive/folders/1Rn1Tnv0XAM1oODwcPImpoSrmGZTdzQrO?usp=sharing
 
 
